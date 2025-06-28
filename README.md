@@ -41,7 +41,7 @@ To provide early flood alerts by combining real-time water level monitoring, wea
 
 | Home Page | Home Page 2 | My Account |
 |-----------|--------------|------------|
-| ![](screenshots/Home%20Page.jpeg) | ![](screenshots/Home%20Page%202.jpeg) | ![](screenshots/MY%20Account.jpeg) |
+| ![](screenshots/Home%20Page.jpeg) | ![](screenshots/Home%20Page%202.jpeg) | ![](screenshots/MY%20Accoumt.jpeg) |
 
 | Flood Prediction | Chatbot | SOS |
 |------------------|---------|-----|
