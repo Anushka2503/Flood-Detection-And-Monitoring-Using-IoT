@@ -1,4 +1,4 @@
-# 🌊 Flood Detection and Monitoring System Using IoT
+# 🌊 Flood Detection and Monitoring Using IoT
 
 This project aims to detect and monitor flood conditions using IoT sensors and machine learning techniques. A mobile application alerts local users about flood risks and provides emergency support through an SOS feature.
 
