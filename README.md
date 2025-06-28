@@ -1,4 +1,4 @@
-# 🌊 Flood Detection and Monitoring System Using IoT 
+# 🌊 Flood Detection and Monitoring System Using IoT
 
 This project aims to detect and monitor flood conditions using IoT sensors and machine learning techniques. A mobile application alerts local users about flood risks and provides emergency support through an SOS feature.
 
@@ -35,14 +35,23 @@ To provide early flood alerts by combining real-time water level monitoring, wea
 
 ## 📷 App Screenshots
 
-
 | About App | Sign In | Sign Up |
 |-----------|---------|---------|
 | ![](screenshots/About%20App.jpeg) | ![](screenshots/Sign%20In.jpeg) | ![](screenshots/Sign%20up.jpeg) |
 
 | Home Page | Home Page 2 | My Account |
 |-----------|--------------|------------|
-| ![](screenshots/Home%20Page.jpeg) | ![](screenshots/Home%20Page%202.jpeg) | ![](screenshots/)
+| ![](screenshots/Home%20Page.jpeg) | ![](screenshots/Home%20Page%202.jpeg) | ![](screenshots/MY%20Account.jpeg) |
+
+| Flood Prediction | Chatbot | SOS |
+|------------------|---------|-----|
+| ![](screenshots/Flood%20risk%20predition.jpeg) | ![](screenshots/Chat%20bot.jpeg) | ![](screenshots/SOS.jpeg) |
+
+| SOS Hospital | Side Bar | YT Videos |
+|--------------|----------|-----------|
+| ![](screenshots/SOS%20Hospital.jpeg) | ![](screenshots/Side%20bar.jpeg) | ![](screenshots/YT%20Videos.jpeg) |
+
+---
 
 ## 🛠️ Physical Model
 
@@ -50,10 +59,13 @@ The system was physically built using microcontroller components and sensors as 
 
 ![Physical Model](screenshots/Physical-Model.jpeg)
 
+---
+
 ## 📃 Submitted As
+
 - **Final Year Project - B.E. (Information Technology)**  
 - **Academic Year**: 2024–2025  
-- **College**: [RMD Sinhgad School of Engineering]
+- **College**: *RMD Sinhgad School of Engineering*
 
 ---
 
